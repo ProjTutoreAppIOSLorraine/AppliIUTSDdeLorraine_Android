@@ -1,0 +1,92 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:gravity="top"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+  
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/header" />
+
+    <EditText
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="38dp"
+        android:background="@drawable/champ_identifiant"
+        android:ems="10"
+        android:hint="                        Identifiant"
+        android:inputType="text" >
+
+        <requestFocus />
+    </EditText>
+    
+    <ImageView
+
+	    android:id="@+id/retour"
+	    android:layout_width="30dp"
+	    android:layout_height="20dp"
+	    android:layout_alignBottom="@+id/imageView1"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_marginLeft="20dp"
+	    android:src="@drawable/retour"
+	    android:onClick="click" />
+
+    <EditText
+        android:id="@+id/mdp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/login"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/champ_identifiant"
+        android:ems="10"
+        android:hint="                       Mot de passe "
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:clickable="true"
+        android:onClick="click_connexion"
+        android:text="Connexion"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#0086FF"
+        android:textSize="22sp" />
+    
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/titre_logo" />
+    
+    <ImageView
+        android:id="@+id/titre_general"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/logo"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp"
+        android:src="@drawable/titre_general" />
+    
+</RelativeLayout>

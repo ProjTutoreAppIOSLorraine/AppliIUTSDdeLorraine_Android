@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">AppliIUTSD</string>
+    <string name="texte_iut"><b>PRÉSENTATION DE L\'IUT</b> \n \n
+        
+        L\'IUT de Saint-Dié-des-Vosges est né en 1993 dans le cadre du schéma \"Université 2000\"
+        de politique d\'aménagement du territoire. \n
+        
+        Il est rattaché à l\'Université de Lorraine qui réunit en un seul établissement l\'Institut
+        national polytechnique de Lorraine, l\'Université Henri Poincaré-Nancy 1, l\'Université Nancy 
+        2 et l\'Université Paul Verlaine-Metz. \n \n \n
+        
+        UNE PÉDAGOGIE DE LA RÉUSSITE \n \n
+        
+        À travers un grand nombre de TP et TD, les IUT privilégient surtout l\'enseignement par
+        petits groupes. \n
+        Cette pédagogie favorise la réussite car elle permet un suivi très personnalisé. \n \n \n
+        
+        LES FORMATIONS \n \n
+        
+        DUT : MMI - INFO - GEII \n
+        Licences pro : A2I - I2M - ISN - TeCAMTV - CDG \n \n \n
+        
+        CONTACT \n \n
+        
+        IUT de Saint-Dié-des-Vosges \n
+        11, rue de l\'Université \n
+        88100 Saint-Dié-des-Vosges \n
+        
+        Tél : 03 29 53 60 00 \n
+        iutsd-contact@univ-lorraine.fr \n \n \n
+        
+        SE RESTAURER \n \n
+        
+        - fast-foods : \n
+        	- McDonald\'s (2 Avenue de l\'Égalité) \n
+        	- KJC (5 rue Gambetta) \n
+        	- O\'Malo (50 rue Thiers) \n
+        	- Andiamo Pizza (11 rue d\'Alsace) \n \n
+        	
+        - sandwicheries : \n
+        	- Croc\'Vosgien (20 rue Concorde) \n
+        	- Cassis Framboise (35 rue Stanislas) \n \n \n
+        	
+        SE LOGER \n \n
+        
+        Foyer des Jeunes Travailleurs : Chambres - Studios - T2 - Foyers soleils
+        </string>
+        
+   		 <string name="texte_geii">
+   		     PRÉSENTATION DU DUT GEII \n \n
+   		     
+   		     La formation GEII apporte des compétences en automatisme, électronique, électrotechnique, 
+   		     informatique industrielle et en réseaux. \n
+   		     Elle offre également une orientation originale : Electronique pour L\'Audiovisuel, 
+   		     permettant d\'étudier les procédés utilisés en multimédia. \n \n
+   		     
+   		     Une fois son diplôme obtenu, l\'étudiant peut s\'insérer directement dans la vie active 
+   		     ou poursuivre ses études. \n \n \n
+   		     
+   		     DÉBOUCHÉS \n \n
+   		     
+   		     - Métiers : Automaticien, Développeur de logiciels, Informaticien industriel, 
+   		     Electronicien, Electricien, Technicien audiovisuel, Technico-commercial, ... \n
+   		     - Les secteurs : les industries de production et de fabrication, les transports, 
+   		     l\'automobile, l\'agro-alimentaire, les sociétés de services informatiques, les 
+   		     bureaux d\'études, ... \n \n \n
+   		     
+   		     POURSUITE D\'ÉTUDES \n \n
+   		     
+   		     - Licence professionnelle \n
+   		     - Licence générale + Master \n
+   		     - École d\'ingénieurs (ESSTIN, INSA, ENSPS, Polytech\', UTBM, ...) \n
+   		     - Formation double compétence... \n \n \n
+   		     
+   		     PROGRAMME \n \n
+   		     
+   		     1800 heures d\'enseignement encadré, 330 heures de projet, sur 4 semestres. \n \n
+   		     
+   		     - Formation scientifique et humaine (450h) : \n
+   		      	Mathématiques \n
+   		        Physique \n
+   		        Expression et communication \n
+   		        Connaissance de l\'entreprise \n
+   		        Anglais \n \n
+   		        
+   		     - Composants, systèmes et applications (750h) : \n
+   		     	Énergie \n
+   		     	Systèmes d\'information numérique \n
+   		     	Systèmes électroniques \n
+   		     	Informatique embarquée \n
+   		     	Automatisme \n
+   		     	Réseaux \n \n
+   		     	
+   		     - Innovation par la technologie et les projets (600h) : \n
+   		     	Outils logiciels \n
+   		     	Études et réalisations d\'ensembles pluritechnologiques \n
+   		     	Gestion de projets \n
+   		     	Projet personnel et professionnel \n \n
+   		     	
+   		     - Mise en situation professionnelle (330h) : \n
+   		     	Projet tuteuré \n
+   		     	Stage en entreprise (10 semaines au moins) \n \n \n
+   		     	
+   		     
+        	ADMISSION \n \n
+        
+        	Tous type de bac ou équivalence (DAEU) \n
+       		Admission sur dossier \n \n \n
+        
+        
+        	STATISTIQUES NATIONALES DIPLOMES 2008 \n \n
+        
+        
+        	75% des emplois occupés avec le DUT seul sont des CDI \n
+       		Moyenne du salaire net mensuel avec le DUT seul : 1512€ \n \n \n
+        
+        
+        	RENSEIGNEMENTS SUPPLÉMENTAIRES \n \n
+        
+        Service Scolarité \n
+        tél. 03 29 53 60 60 - fax. 03 29 53 60 14 \n
+        iutsd-scolarite-contact@univ-lorraine.fr
+   		     
+   		 </string>
+   		 
+   		 <string name="texte_src">
+   	
+		PRÉSENTATION DU DUT SRC \n \n
+
+La formation SRC forme des utilisateurs de TIC (Technologies de l\’information et de la 
+Communication) qui seront capables de travailler aussi bien avec des spécialistes de 
+l\’informatique qu’avec ceux de l\’infographie, du multimédia et de la communication. \n \n
+
+Le DUT SRC apporte des compétences dans le domaine de la communication, des services du 
+réseaux et du multimédia en vue soit d\’une insertion professionnelle directe, soit d\’une 
+poursuite d\’études. \n \n \n
+
+        
+DÉBOUCHÉS \n \n
+
+- Métiers : Développeur de projets multimédia, webdesigner, webdéveloppeur, administrateur 
+réseaux, réalisateur de systèmes d\’informations \n \n
+
+- Les secteurs : Agence de communication, studios graphiques et multimédia, services de 
+communication d\’entreprises et d\’administrations ... \n \n \n
+
+POURSUITE D\'ÉTUDES \n \n
+    
+    - Licence professionelle ou générale \n
+	- Master d\’étude \n
+	- École d\’ingénieurs \n
+    - Formation double compétence... \n \n \n
+
+PROGRAMME \n \n
+1800 heures d\’enseignement encadré, 300 heures de projet, sur 4 semestres \n \n
+
+
+- Communication, culture et connaissance de l\’environnement socio-économique(990h): \n \n
+        
+            Langues et communication interculturelle \n
+            Théories de l\’information et de la communication \n
+            Esthétique, écritures, langages et communication \n
+            Conduite de projet \n
+            Connaissance des organisations \n
+            Projet personnel et professionnel \n \n
+        
+        
+- Culture technologique et développement multimédia (810h): \n \n
+ 
+        Culture scientifique et traitement de l\’information \n
+        Réseaux et services du réseaux \n
+        Outils et méthodes informatiques pour le multimédia \n
+        Création et intégration des médias \n \n
+
+
+- Mise en situation professionelle: \n \n
+        
+            Projet (300h) \n
+            Stages en entreprise (10 semaines) \n \n \n
+        
+
+        
+ADMISSION \n \n
+
+Tous type de bac ou équivalence (DAEU) \n
+Admission sur dossier \n \n \n
+
+
+        
+RENSEIGNEMENTS SUPPLÉMENTAIRES \n \n
+
+Service Scolarité \n
+tél. 03 29 53 60 60 - fax. 03 29 53 60 14 \n
+iutsd-scolarite-contact@univ-lorraine.fr
+   		 </string>
+   		 
+   		 <string name="texte_info">
+   		     
+PRÉSENTATION DU DUT INFO \n \n
+
+La formation INFO apporte des compétences dans différents domaines de l\’informatique. \n \n
+
+On retrouve majoritairement dans cette formation des travaux sur: bases de données, 
+technologies web et nomade, systèmes d\’information, analyse et synthèse d\’image, systèmes 
+et réseaux, en vue soit d\’une insertion professionnelle directe, 
+soit d\’une poursuite d\’études. \n \n \n
+        
+DÉBOUCHÉS \n \n
+
+- Métiers : Développeur, responsable réseaux, gestionnaire de parc informatique, 
+analyste d\’exploitation, administrateur de bases de données, architecte de systèmes 
+d\’informations, concepteur de sites web, développeur d\’applications mobiles, webmestre, ... \n \n \n
+
+
+
+POURSUITE D\'ÉTUDES \n \n
+
+        - Licence professionelle ou générale
+        - Master d\’étude
+        - École d\’ingénieurs
+        - Formation double compétence... \n \n \n
+
+PROGRAMME \n \n
+
+1800 heures d\’enseignement encadré, 300 heures de projet, sur 4 semestres \n \n
+
+- Informatique (750h) : \n \n
+
+Algorithme et programmation \n
+Architecture, systèmes et réseaux \n
+Outils et modèles du génie logiciel \n \n
+
+- Connaissances et compétences générales (750h) : \n \n
+
+Mathématiques \n
+Économie et gestion des organisations \n
+Langues, expression-communication \n \n
+
+- Modules complémentaires (300h. déterminées en fonction du parcours): \n \n
+
+- Mise en situation professionnelle : \n \n
+
+Projet (300h) \n
+Stage en entreprise (10 semaines aux moins) \n \n \n
+
+    
+ADMISSION \n \n
+   
+    Tous type de bac ou équivalence (DAEU) \n
+    Admission sur dossier \n \n \n
+    
+RENSEIGNEMENTS SUPPLÉMENTAIRES \n \n
+    
+    Service Scolarité \n
+    tél. 03 29 53 60 60 - fax. 03 29 53 60 14 \n
+    iutsd-scolarite-contact@univ-lorraine.fr     
+   		 </string>
+   		 
+   		 <string name="login">iut</string>
+   		 <string name="mdp">stdie</string>
+
+</resources>
