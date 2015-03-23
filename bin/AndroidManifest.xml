@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iutsddelorraine_3"
+    android:versionCode="3"
+    android:versionName="2.3" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="7" />
+    
+    <permission android:name="com.iutsddelorraine_3.permission.MAPS_RECEIVE" android:protectionLevel="signature"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="com.iutsddelorraine_3.permission.MAPS_RECEIVE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION" />
+	
+	<uses-feature
+android:glEsVersion="0x00020000"
+android:required="true"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.iutsddelorraine_3.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.iutActivity"
+            android:label="@string/app_name">
+        </activity>
+       
+        <activity
+            android:name="com.iutsddelorraine_3.identificationActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.planActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.geiiActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.mmiActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.infoActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.connecteActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edtActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_geii_1aActivity"
+            android:label="@string/app_name">
+            </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_geii_2aActivity"
+            android:label="@string/app_name">
+            </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_mmi_1aActivity"
+            android:label="@string/app_name">
+            </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_mmi_2aActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_info_1aActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_info_2aActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_a2iActivity"
+ 			android:label="@string/app_name">        
+ 		</activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_cdsActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_i2mActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_isnActivity"
+            android:label="@string/app_name">
+        </activity>
+        <activity
+            android:name="com.iutsddelorraine_3.edt_tecamtvActivity"
+            android:label="@string/app_name">
+        </activity>
+         <activity
+            android:name="com.iutsddelorraine_3.facebookActivity"
+            android:label="@string/app_name">
+         </activity>
+         <activity
+            android:name="com.iutsddelorraine_3.twitterActivity"
+            android:label="@string/app_name">
+         </activity>
+         <activity
+            android:name="com.iutsddelorraine_3.mapsActivity"
+            android:label="@string/app_name">
+         </activity>
+         <activity
+            android:name="com.iutsddelorraine_3.ParseXMLMethods"
+            android:label="@string/app_name">
+         </activity>
+         <activity
+            android:name="com.iutsddelorraine_3.ParseXMLDemo"
+            android:label="@string/app_name">
+         </activity>
+         <activity
+            android:name="com.iutsddelorraine_3.ajout_newsActivity"
+            android:label="@string/app_name">
+         </activity>
+      	
+        <meta-data
+    android:name="com.google.android.maps.v2.API_KEY"
+    android:value="AIzaSyB7QD0X_bIRKw6hpG9uilQEAN5RLTO9310"/>
+        
+       	<meta-data
+    android:name="com.google.android.gms.version"
+    android:value="@integer/google_play_services_version" />
+        
+    </application>
+
+</manifest>
